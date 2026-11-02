@@ -1,0 +1,98 @@
+# MLRs
+
+- Activities and Tasks
+  - Architecture Recovery
+  - Digital Transformation
+  - Feedback Process
+  - Insider Attack
+  - Monitoring
+  - Secure Software Testing
+  - Software Estimation
+  - Software Evolution
+  - Twin Transition
+  - Zero-Trust Security
+- Human and Social Factors
+  - Developer Experience
+  - Industry Adoption
+  - LGBTQIA+
+  - Practices (including Best Practices)
+  - Success Factor
+  - User Experience (UX)
+- Knowledge
+  - CAMS Principles
+  - Patterns
+    - Design Pattern
+    - Model-View-ViewModel Pattern
+    - Pattern Catalogue
+  - Maturity Model
+    - Capability Maturity Model
+  - Readiness Model
+  - Software Dependency
+  - SPI Manifesto
+  - Tool (?)
+- Methods and Processes
+  - AutoML
+  - DevOps
+    - DevSecOps
+    - MLOps
+  - SAFe
+- Paradigms
+  - Agile
+    - Agile Software Development
+    - Agile Team
+  - Cloud Computing
+  - Computer-Aided Engineering
+  - Continuous Engineering
+  - Edge Computing
+  - Edge-to-Cloud Computing
+  - Global Software Engineering
+    - Remote Software Development Team
+  - Infrastructure as Code
+  - Monolithic Architecture
+  - Quantum Computing
+- Project
+  - Large-Scale Project
+- Quality-related Concepts
+  - AI-related Properties
+    - AI Accountability
+    - Responsible AI
+    - Trustworthy AI
+  - Data Quality
+  - Errors
+    - Software Bug
+    - Software Defect
+  - Explainability
+  - Measurement
+    - Key Performance Indicator (KPI)
+    - Metric
+  - Quality Attribute
+    - Cybersecurity
+  - Risks
+    - Security Risk
+  - Smells
+    - Code Comment Smell
+    - Reproducibility Smell
+    - Test Smell
+  - Sustainability
+  - Technical Debt
+- System Component
+  - Graphical User Interface (GUI)
+  - Software Architecture
+- Techniques
+  - Choreography
+  - Containerization
+  - Smart Contract Invocation
+- Technologies
+  - Blockchain
+  - Cloud Technologies
+  - Edge Device
+  - Microservice
+    - Cloud-Based Web Microservice
+- Type of Systems
+  - AI-Enabled System
+    - ML-Enabled System
+  - (Chat)Bot
+  - Compiler
+  - Data Pipeline
+  - GenAI
+  - Video Game
