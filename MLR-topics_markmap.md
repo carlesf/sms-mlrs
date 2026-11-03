@@ -4,19 +4,15 @@
   - Architecture Recovery
   - Digital Transformation
   - Feedback Process
-  - Insider Attack
   - Monitoring
   - Secure Software Testing
   - Software Estimation
   - Software Evolution
   - Twin Transition
-  - Zero-Trust Security
 - Human and Social Factors
   - Developer Experience
   - Industry Adoption
   - LGBTQIA+
-  - Practices (including Best Practices)
-  - Success Factor
   - User Experience (UX)
 - Knowledge
   - CAMS Principles
@@ -26,20 +22,22 @@
     - Pattern Catalogue
   - Maturity Model
     - Capability Maturity Model
+  - Practices (including Best Practices)
   - Readiness Model
   - Software Dependency
   - SPI Manifesto
+  - Success Factor
   - Tool (?)
 - Methods and Processes
   - AutoML
   - DevOps
     - DevSecOps
     - MLOps
-  - SAFe
 - Paradigms
   - Agile
     - Agile Software Development
     - Agile Team
+    - SAFe
   - Cloud Computing
   - Computer-Aided Engineering
   - Continuous Engineering
@@ -48,26 +46,26 @@
   - Global Software Engineering
     - Remote Software Development Team
   - Infrastructure as Code
-  - Monolithic Architecture
   - Quantum Computing
+  - Zero-Trust Security
 - Project
   - Large-Scale Project
 - Quality-related Concepts
   - AI-related Properties
     - AI Accountability
+    - Explainability
     - Responsible AI
     - Trustworthy AI
   - Data Quality
   - Errors
-    - Software Bug
-    - Software Defect
-  - Explainability
+    - Software Defect (including Software Bug)
   - Measurement
     - Key Performance Indicator (KPI)
     - Metric
   - Quality Attribute
     - Cybersecurity
   - Risks
+    - Insider Attack
     - Security Risk
   - Smells
     - Code Comment Smell
@@ -78,6 +76,9 @@
 - System Component
   - Graphical User Interface (GUI)
   - Software Architecture
+    - Microservice
+      - Cloud-Based Web Microservice
+    - Monolithic Architecture
 - Techniques
   - Choreography
   - Containerization
@@ -86,8 +87,6 @@
   - Blockchain
   - Cloud Technologies
   - Edge Device
-  - Microservice
-    - Cloud-Based Web Microservice
 - Type of Systems
   - AI-Enabled System
     - ML-Enabled System
