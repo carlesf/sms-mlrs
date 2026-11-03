@@ -1,0 +1,78 @@
+﻿Agile Software Development,
+Agile Team,
+AI Accountability,
+AI-Enabled System,Maybe merge with ML-Enabled Systems
+Architecture Recovery,
+AutoML,
+Blockchain,
+(Chat)Bot,
+CAMS Principles,
+Capability Maturity Model,
+Choreography,
+Cloud-Based Web Microservice,
+Cloud Computing,
+Cloud Technologies,
+Code Comment Smell,
+Compilers,
+Computer-Aided Engineering,
+Containerization,
+Continuous Engineering,
+Cybersecurity,Maybe include in Security?
+Data Pipeline,
+Data Quality,
+Design Pattern,
+Developer Experience,
+DevOps,
+DevSecOps,An option is to split into DevOps and Security
+Digital Transformation,
+Edge Computing,
+Edge Device,
+Edge-to-Cloud Computing,
+Explainability,
+Feedback Process,
+GenAI,
+Global Software Engineering,
+Graphical User Interface (GUI),
+Industry Adoption,"Maybe remove? But it is a real emphasis on some paper (e.g., S025)"
+Infrastructure as Code,
+Insider Attack,
+Key Performance Indicator (KPI),
+Large-Scale Project,
+LGBTQIA+,
+Maturity Model,
+Metric,
+Microservice,
+ML-Enabled System,Maybe merge with AI-Enabled Systems
+MLOps,An option is to split into DevOps and ML-Enabled Systems
+Model-View-ViewModel Pattern,Maybe to abstract into Architectural Pattern?
+Monitoring,
+Monolithic Architecture,
+Pattern Catalogue,
+Practices (including Best Practices),Maybe remove? But some papers focus so much on practices…
+Quality Attributes,"Only when they are prominent in the studies (e.g., appear in a RQ)"
+Quantum Computing,
+Readiness Model,
+Remote Software Development Team,
+Reproducibility Smell,
+Responsible AI,It could be split into Responsibility and AI-Enabled Systems
+SAFe,
+Secure Software Testing,
+Security Risk,
+Smart Contract Invocation,
+Software Architecture,Maybe too broad?
+Software Bug,
+Software Defect,
+Software Dependency,
+Software Estimation,
+Software Evolution,Very broad indeed (S051)
+SPI Manifesto,
+Success Factor,Maybe remove? But some papers focus so much on success factors…
+Sustainability,
+Technical Debt,
+Test Smell,
+Tool,Maybe remove? But some papers focus so much on tools…
+Trustworthy AI,It could be split into Trustworthiness and AI-Enabled Systems
+Twin Transition,
+User Experience (UX),
+Video Game,
+Zero-trust Security,
